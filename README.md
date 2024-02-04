@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @codewithtiku!
+- 👀 I’m interested in web development and ethical hacking.
+- 🌱 I’m currently learning JavaScript.
+- 📫 reach me through Twitter(X)-@callmetiku or Instagram-@pushpendrax_
+- ⚡ Still a beginner yet very passionate about my work.
